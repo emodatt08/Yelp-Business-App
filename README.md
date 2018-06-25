@@ -1,6 +1,6 @@
 # Soundboard [![Build Status](https://travis-ci.org/NativeScript/sample-Groceries.svg?branch=release)](https://travis-ci.org/NativeScript/sample-Groceries)
 
-CaffieneHit list is an Ionic Android/IOS soundboard app that displays a list of businesses from YELP.
+CaffieneHit list is an Ionic Android/IOS app that displays a list of businesses from YELP.
 
 
 <h2 id="screenshots">Screenshots</h2>
